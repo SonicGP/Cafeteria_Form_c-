@@ -1,0 +1,19 @@
+C:\Users\ander\Documents\Visual Studio 2015\Projects\Cafeteria0.0\Cafeteria0.0\bin\Debug\Cafeteria0.0.exe.config
+C:\Users\ander\Documents\Visual Studio 2015\Projects\Cafeteria0.0\Cafeteria0.0\bin\Debug\Cafeteria0.0.exe
+C:\Users\ander\Documents\Visual Studio 2015\Projects\Cafeteria0.0\Cafeteria0.0\bin\Debug\Cafeteria0.0.pdb
+C:\Users\ander\Documents\Visual Studio 2015\Projects\Cafeteria0.0\Cafeteria0.0\obj\Debug\Cafeteria0.0.csprojResolveAssemblyReference.cache
+C:\Users\ander\Documents\Visual Studio 2015\Projects\Cafeteria0.0\Cafeteria0.0\obj\Debug\Cafeteria0._0.Form1.resources
+C:\Users\ander\Documents\Visual Studio 2015\Projects\Cafeteria0.0\Cafeteria0.0\obj\Debug\Cafeteria0._0.Properties.Resources.resources
+C:\Users\ander\Documents\Visual Studio 2015\Projects\Cafeteria0.0\Cafeteria0.0\obj\Debug\Cafeteria0.0.csproj.GenerateResource.Cache
+C:\Users\ander\Documents\Visual Studio 2015\Projects\Cafeteria0.0\Cafeteria0.0\obj\Debug\Cafeteria0.0.exe
+C:\Users\ander\Documents\Visual Studio 2015\Projects\Cafeteria0.0\Cafeteria0.0\obj\Debug\Cafeteria0.0.pdb
+C:\Users\ander\Documents\Pastas Anderson\Visual Projeto Estudos\Visual Studio 2015\Projects\Cafeteria0.0\Cafeteria0.0\bin\Debug\Cafeteria0.0.exe.config
+C:\Users\ander\Documents\Pastas Anderson\Visual Projeto Estudos\Visual Studio 2015\Projects\Cafeteria0.0\Cafeteria0.0\bin\Debug\Cafeteria0.0.exe
+C:\Users\ander\Documents\Pastas Anderson\Visual Projeto Estudos\Visual Studio 2015\Projects\Cafeteria0.0\Cafeteria0.0\bin\Debug\Cafeteria0.0.pdb
+C:\Users\ander\Documents\Pastas Anderson\Visual Projeto Estudos\Visual Studio 2015\Projects\Cafeteria0.0\Cafeteria0.0\obj\Debug\Cafeteria0.0.csprojAssemblyReference.cache
+C:\Users\ander\Documents\Pastas Anderson\Visual Projeto Estudos\Visual Studio 2015\Projects\Cafeteria0.0\Cafeteria0.0\obj\Debug\Cafeteria0._0.Form1.resources
+C:\Users\ander\Documents\Pastas Anderson\Visual Projeto Estudos\Visual Studio 2015\Projects\Cafeteria0.0\Cafeteria0.0\obj\Debug\Cafeteria0._0.Properties.Resources.resources
+C:\Users\ander\Documents\Pastas Anderson\Visual Projeto Estudos\Visual Studio 2015\Projects\Cafeteria0.0\Cafeteria0.0\obj\Debug\Cafeteria0.0.csproj.GenerateResource.cache
+C:\Users\ander\Documents\Pastas Anderson\Visual Projeto Estudos\Visual Studio 2015\Projects\Cafeteria0.0\Cafeteria0.0\obj\Debug\Cafeteria0.0.csproj.CoreCompileInputs.cache
+C:\Users\ander\Documents\Pastas Anderson\Visual Projeto Estudos\Visual Studio 2015\Projects\Cafeteria0.0\Cafeteria0.0\obj\Debug\Cafeteria0.0.exe
+C:\Users\ander\Documents\Pastas Anderson\Visual Projeto Estudos\Visual Studio 2015\Projects\Cafeteria0.0\Cafeteria0.0\obj\Debug\Cafeteria0.0.pdb
